@@ -1,0 +1,7 @@
+# for root
+/*              /index.html     200
+​
+# for the rest
+/plans/*        /plans.html     200
+/features/*      /features.html   200
+​
